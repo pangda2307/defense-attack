@@ -1,0 +1,24 @@
+--314f7088-8923-435c-9391-2071e30c4f28
+Content-Disposition: form-data; name="phone"
+Content-Length: 11
+
+18218742820
+--314f7088-8923-435c-9391-2071e30c4f28
+Content-Disposition: form-data; name="userId"
+Content-Length: 32
+
+d4bd7c61342da86f295da90d8cc99ef4
+--314f7088-8923-435c-9391-2071e30c4f28
+Content-Disposition: form-data; name="sjc"
+Content-Length: 13
+
+1723894831190
+--314f7088-8923-435c-9391-2071e30c4f28
+Content-Disposition: form-data; name="ttttt"
+Content-Length: 32
+
+6a58f6c61fb9bbf2f371202a6b0e6026
+--314f7088-8923-435c-9391-2071e30c4f28
+Content-Disposition: form-data; name="file"; filename="IMG_20240445_193649.jpg"
+Content-Type: image/jpeg
+Content-Length: 532274
